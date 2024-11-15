@@ -18,9 +18,3 @@ To run the programs, ensure you have the following installed:
 
 - **JDK 8** or higher: Make sure you have the Java Development Kit installed to compile and run the Java programs.
 - **NetBeans** or any Java IDE: You can use any Integrated Development Environment that supports Java, but NetBeans is recommended for ease of use with this project.
-
-### Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AlexEspinoza2005/vectorCalculusWithJava.git
